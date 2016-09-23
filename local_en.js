@@ -481,5 +481,4 @@
         "_Previous":"Previous",
         "_Apply":"Apply"
     },
-     "image": { }
 }
