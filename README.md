@@ -1,9 +1,11 @@
 # UpStudioWindowTranslation
+
 文件结构：
 		&FileSaver.min.js
 		&jquery.1.10.2.min.js
 		&local_en.js
 		&index.html
+		
 使用说明：
 	Step1: 用户解压包内容可以看到如上的文件结构。
 	Step2: 使用Chrome(其它浏览器没有测试)打开文件中的index.html。切记其它文件误删，勿动。
