@@ -78,7 +78,7 @@
 
 </body>
 
-<script
+<script>
     var save_translation_fileName  = "translation.json";
     function handleFileSelect(evt) {
         var files = evt.target.files; // FileList object
@@ -88,6 +88,7 @@
             output.push('<li><strong>', escape(f.name), '</strong> (', f.type || 'n/a', ') - ',
                     f.size, ' bytes, last modified: ',
                     f.lastModifiedDate.toLocaleDateString(), '</li>');
+            save_translation_fileName = f.name;
         }
         document.getElementById('list').innerHTML = '<ul>' + output.join('') + '</ul>';
         readAsText();
