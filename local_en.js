@@ -37,7 +37,6 @@
     "Basic":"Basic", 
 	"Login": "Login",
     "Username_or_Email": "Username or Email",
-    "Password": "Password",
     "Sign_In": "Sign In",
     "Sign_Up": "Sign Up",
     "Remember_Me": "Remember Me",
