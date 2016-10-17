@@ -33,7 +33,7 @@
     "Details": "Details",
 	"Skin_Color":"Skin Color",
     "Model_Color":"Model Color",
-    "Current":"Current",
+    "Current_Color":"Current Color",
     "Basic":"Basic", 
 	"Login": "Login",
     "Username_or_Email": "Username or Email",
